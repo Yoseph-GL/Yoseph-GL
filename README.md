@@ -9,7 +9,7 @@ My focus is bridging the gap between Software Engineering and Operations. I am s
 ---
 
 ### 🎯 Current Goal
-Seeking a **"Modelo Dual" Internship (Jan 2026)** to join a senior engineering team where I can apply my **infrastructure-as-code** mindset and contribute to real-world digital products.
+Seeking a **"Modelo Dual" Internship to join a senior engineering team where I can apply my **infrastructure-as-code** mindset and contribute to real-world digital products.
 
 ---
 
