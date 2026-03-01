@@ -1,15 +1,13 @@
 ### Hi there, I'm Joseph 👋
 
-#### 🎓 IT Engineering Student specialized in Backend & Infrastructure
+#### 🎓 IT Engineering Student | Aspiring Platform Engineer
 
-I don’t just write code that compiles; **I build environments where code thrives.**
-
-My focus is bridging the gap between Software Engineering and Operations. I am self-taught in **Linux (Ubuntu Server)** and **Docker**, while building a strong foundation in **Java (OOP)** and **SQL** for backend logic.
+I build reliable backend logic and the infrastructure to support it. No fluff, just code and containers. My focus is bridging the gap between Software Engineering and Operations through automation, containerization, and clean architecture.
 
 ---
 
-### 🎯 Current Goal
-Seeking a "Modelo Dual" Internship to join a senior engineering team where I can apply my **infrastructure-as-code** mindset and contribute to real-world digital products.
+### 🎯 Current Focus
+Architecting scalable data pipelines and mastering **infrastructure-as-code**. I am actively building systems that integrate robust **Java/Python** backends with **SQL** databases, all deployed within custom **Docker** and **Ubuntu Server** environments.
 
 ---
 
@@ -24,8 +22,8 @@ Seeking a "Modelo Dual" Internship to join a senior engineering team where I can
 ---
 
 ### 🚀 What I'm Building
-* **Architecture:** High-performance simulations using **Java OOP**.
-* **Environment:** Managing Custom **Ubuntu Server** environments for development.
-* **Automation:** Scripting daily workflows and backend tasks with **Python**.
+* **Architecture:** Designing Object-Oriented backend systems and data pipelines.
+* **Environment:** Configuring and optimizing custom **Linux** environments for seamless development.
+* **Automation:** Writing **Bash** and **Python** scripts to eliminate repetitive operational tasks.
 
 > 💡 *"If you ever feel you know everything, worry. It means you stopped growing."*
