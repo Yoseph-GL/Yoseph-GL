@@ -1,17 +1,17 @@
-### Hi there, I'm Joseph 👋
+### Hi there, I'm Joseph 
 
-#### 🎓 IT Engineering Student | Aspiring Platform Engineer
+#### IT Engineering Student | Aspiring Platform Engineer
 
 I build reliable backend logic and the infrastructure to support it. No fluff, just code and containers. My focus is bridging the gap between Software Engineering and Operations through automation, containerization, and clean architecture.
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 Architecting scalable data pipelines and mastering **infrastructure-as-code**. I am actively building systems that integrate robust **Java/Python** backends with **SQL** databases, all deployed within custom **Docker** and **Ubuntu Server** environments.
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -21,9 +21,9 @@ Architecting scalable data pipelines and mastering **infrastructure-as-code**. I
 
 ---
 
-### 🚀 What I'm Building
+###  What I'm Building
 * **Architecture:** Designing Object-Oriented backend systems and data pipelines.
 * **Environment:** Configuring and optimizing custom **Linux** environments for seamless development.
 * **Automation:** Writing **Bash** and **Python** scripts to eliminate repetitive operational tasks.
 
-> 💡 *"If you ever feel you know everything, worry. It means you stopped growing."*
+>  *"If you ever feel you know everything, worry. It means you stopped growing."*
