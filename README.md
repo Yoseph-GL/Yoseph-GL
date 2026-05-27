@@ -1,29 +1,38 @@
-### Hi there, I'm Joseph 
+### Hi there, I'm Joseph Angel Anthony Garza Lopez 
 
-#### IT Engineering Student | Aspiring Platform Engineer
-
-I build reliable backend logic and the infrastructure to support it. No fluff, just code and containers. My focus is bridging the gap between Software Engineering and Operations through automation, containerization, and clean architecture.
-
----
-
-###  Current Focus
-Architecting scalable data pipelines and mastering **infrastructure-as-code**. I am actively building systems that integrate robust **Java/Python** backends with **SQL** databases, all deployed within custom **Docker** and **Ubuntu Server** environments.
+Santa Rosa, Nuevo León, México  
+joseph88garza@gmail.com  
+[linkedin.com/in/joseph-angel-anthony-garza-lopez](https://linkedin.com/in/joseph-angel-anthony-garza-lopez)
 
 ---
 
-###  Tech Stack
+### IT Engineering Student | Backend & Infrastructure Enthusiast
+
+I'm a 5th-semester IT Engineering student (BIS Model: Bilingual, International, Sustainable).
+
+I focus on building solid foundations in **backend, automation, and containers** through personal labs (homelabs) and continuous learning. I use Linux daily and enjoy understanding how software works under the hood, not just the theory.
+
+I am looking for a **Professional Internship starting in September 2026**, where I can deliver operational value from day one and keep learning alongside an experienced engineering team.
+
+---
+
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| **Professional IDEs** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?style=flat&logo=datagrip&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=pycharm&logoColor=white) |
+| **Languages & Databases** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| **Systems & Containers** | ![Linux](https://img.shields.io/badge/Ubuntu_24.04-E95420?style=flat&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Tools & Terminal** | ![JetBrains Suite](https://img.shields.io/badge/JetBrains_Suite-000000?style=flat&logo=jetbrains&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=zsh&logoColor=white) ![Kitty](https://img.shields.io/badge/Kitty-000000?style=flat&logo=windowsterminal&logoColor=white) |
 
 ---
 
-###  What I'm Building
-* **Architecture:** Designing Object-Oriented backend systems and data pipelines.
-* **Environment:** Configuring and optimizing custom **Linux** environments for seamless development.
-* **Automation:** Writing **Bash** and **Python** scripts to eliminate repetitive operational tasks.
+### What I'm Building
 
->  *"If you ever feel you know everything, worry. It means you stopped growing."*
+- **Homelab & Local Environment** – Maintaining a sandbox on Ubuntu 24.04 LTS, deploying services with Docker Compose to practice and experiment.
+- **Bash Automation (dotfiles)** – Modular suite of scripts for safe updates, Docker cleanup, and backups, applying strict error handling and dry-run modes by default.
+- **Knowledge Base** – Living documentation in Markdown/Git where I assimilate and structure concepts of SQL, Bash, and automation patterns.
+- **OOP Fundamentals** – Small **RacingCars** simulator in Java to practice inheritance, polymorphism, and state modeling.
+
+---
+
+> *"If you ever feel you know everything, worry. It means you stopped growing."*
