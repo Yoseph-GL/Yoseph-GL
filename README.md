@@ -28,7 +28,7 @@ I am looking for a **Professional Internship starting in September 2026**, where
 
 ### What I'm Building
 
-- **[Homelab & Local Environment]()** – Maintaining a sandbox on Ubuntu Server 24.04 LTS, deploying services with Docker Compose to practice and experiment.
+- **[Homelab & Local Environment](https://github.com/Yoseph-GL/ops-docker-databases)** – Maintaining a sandbox on Ubuntu Server 24.04 LTS, deploying services with Docker Compose to practice and experiment.
 - **[Bash Automation (dotfiles)](https://github.com/Yoseph-GL/ubuntu-ops-dotfiles)** – Modular suite of scripts for safe updates, Docker cleanup, and backups, applying strict error handling and dry-run modes by default.
 - **[Knowledge Base](https://github.com/Yoseph-GL/documentation-as-code)** – Living documentation in Markdown/Git where I assimilate and structure concepts of SQL, Bash, and automation patterns.
 - **[OOP Fundamentals](https://github.com/Yoseph-GL/RacingCars)** – Small **RacingCars** simulator in Java to practice inheritance, polymorphism, and state modeling.
