@@ -8,7 +8,7 @@ joseph88garza@gmail.com
 
 ### IT Engineering Student | Backend & Infrastructure Enthusiast
 
-I'm a 5th-semester IT Engineering student (BIS Model: Bilingual, International, Sustainable).
+I'm a 5th-term IT Engineering student (BIS Model: Bilingual, International, Sustainable).
 
 I focus on building solid foundations in **backend, automation, and containers** through personal labs (homelabs) and continuous learning. I use Linux daily and enjoy understanding how software works under the hood, not just the theory.
 
