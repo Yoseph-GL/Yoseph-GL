@@ -1,22 +1,22 @@
 <div align="center">
   <h1 style="color:#A855F7">Joseph Angel Anthony Garza Lopez</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=IT+Engineering+Student+%E2%80%94+5th+Term;Backend+%26+Infrastructure+Enthusiast;Operating+daily+on+bare-metal+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=5000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=IT+Engineering+Student+%E2%80%94+5th+Term;Backend+%26+Infrastructure+Enthusiast;Operating+daily+on+bare-metal+Linux" alt="Typing SVG" />
 
   <p>Santa Rosa, Nuevo Leon, Mexico</p>
 
   <p>
     <a href="mailto:joseph88garza@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/joseph-angel-anthony-garza-lopez">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Status-Seeking_Internship-A855F7?style=flat" alt="Status">
-    <img src="https://img.shields.io/badge/Availability-Sept_2026-A855F7?style=flat" alt="Availability">
+    <img src="https://img.shields.io/badge/Status-Seeking_Internship-A855F7?style=for-the-badge" alt="Status">
+    <img src="https://img.shields.io/badge/Availability-Sept_2026-A855F7?style=for-the-badge" alt="Availability">
   </p>
 
   <p>
@@ -32,24 +32,24 @@
 ### <span style="color:#A855F7">Tech Stack</span>
 
 <strong style="color:#A855F7">Languages &amp; Databases</strong><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 <strong style="color:#A855F7">Systems &amp; Containers</strong><br>
-<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
 <strong style="color:#A855F7">Tools &amp; Terminal</strong><br>
-<img src="https://img.shields.io/badge/JetBrains_Suite-000000?style=flat&logo=jetbrains&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=zsh&logoColor=white">
-<img src="https://img.shields.io/badge/Kitty-000000?style=flat&logo=windowsterminal&logoColor=white">
+<img src="https://img.shields.io/badge/JetBrains_Suite-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white">
+<img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=windowsterminal&logoColor=white">
 
 <div style="height:1px;background:rgba(168,85,247,0.13)"></div>
 
