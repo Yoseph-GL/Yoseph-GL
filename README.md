@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/Availability-Sept_2026-A855F7?style=flat-square" alt="Availability">
   </p>
 
-  <p>I focus on building solid foundations in <strong>backend, automation, and containers</strong> through personal labs and continuous learning. I use Linux daily and enjoy understanding how software works under the hood, not just the theory.</p>
-
-  <p>Professional Internship &middot; September 2026</p>
-  <p><small>Operating daily on bare-metal Linux to understand system internals.</small></p>
+  <p>
+    <strong>Backend, automation, and containers.</strong> Professional Internship &middot; September 2026.<br>
+    <small>Operating daily on bare-metal Linux to understand system internals.</small>
+  </p>
 </div>
 
 <br>
@@ -133,7 +133,7 @@
 <br>
 
 <div align="center">
-  <i>"Overengineering is just insecurity disguised as architecture. Simplicity scales, complexity just accumulates."</i>
+  <i>"Simplicity scales. Overengineering fails."</i>
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/Yoseph-GL/Yoseph-GL/output/github-snake-dark.svg" alt="Snake Contribution Graph">
