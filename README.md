@@ -1,38 +1,144 @@
-### Hi there, I'm Joseph Angel Anthony Garza Lopez 
+<div align="center">
+  <h1>Joseph Angel Anthony Garza Lopez</h1>
 
-Santa Rosa, Nuevo León, México  
-joseph88garza@gmail.com  
-[linkedin.com/in/joseph-angel-anthony-garza-lopez](https://linkedin.com/in/joseph-angel-anthony-garza-lopez)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=IT+Engineering+Student+%E2%80%94+5th+Term;Backend+%26+Infrastructure+Enthusiast;Operating+daily+on+bare-metal+Linux" alt="Typing SVG" />
 
----
+  <p>Santa Rosa, Nuevo Leon, Mexico</p>
 
-### IT Engineering Student | Backend & Infrastructure Enthusiast
+  <p>
+    <a href="mailto:joseph88garza@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/joseph-angel-anthony-garza-lopez">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Seeking_Internship-A855F7?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/badge/Availability-Sept_2026-A855F7?style=flat-square" alt="Availability">
+  </p>
 
-I'm a 5th-term IT Engineering student (BIS Model: Bilingual, International, Sustainable).
+  <p>I focus on building solid foundations in <strong>backend, automation, and containers</strong> through personal labs and continuous learning. I use Linux daily and enjoy understanding how software works under the hood, not just the theory.</p>
 
-I focus on building solid foundations in **backend, automation, and containers** through personal labs (homelabs) and continuous learning. I use Linux daily and enjoy understanding how software works under the hood, not just the theory.
+  <p>Professional Internship &middot; September 2026</p>
+  <p><small>Operating daily on bare-metal Linux to understand system internals.</small></p>
+</div>
 
-I am looking for a **Professional Internship starting in September 2026**, where I can deliver operational value from day one and keep learning alongside an experienced engineering team.
+<br>
 
----
+<div align="center">
+  <h2>Tech Stack</h2>
+</div>
 
-### Tech Stack
+<table>
+  <tr>
+    <td><strong>Languages &amp; Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      &nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      &nbsp;
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      &nbsp;
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Systems &amp; Containers</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu Server">
+      &nbsp;
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      &nbsp;
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose">
+      &nbsp;
+      <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white" alt="Portainer">
+      &nbsp;
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools &amp; Terminal</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JetBrains_Suite-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains Suite">
+      &nbsp;
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      &nbsp;
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      &nbsp;
+      <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" alt="Zsh">
+      &nbsp;
+      <img src="https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=windowsterminal&logoColor=white" alt="Kitty">
+    </td>
+  </tr>
+</table>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages & Databases** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
-| **Systems & Containers** | ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) | |
-| **Tools & Terminal** | ![JetBrains Suite](https://img.shields.io/badge/JetBrains_Suite-000000?style=flat&logo=jetbrains&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=zsh&logoColor=white) ![Kitty](https://img.shields.io/badge/Kitty-000000?style=flat&logo=windowsterminal&logoColor=white) |
+<br>
 
----
+<div align="center">
+  <h2>What I'm Building</h2>
+</div>
 
-### What I'm Building
+<table>
+  <tr>
+    <td width="50%">
+      <strong><a href="https://github.com/Yoseph-GL/documentation-as-code">Knowledge Base</a></strong>
+      <br>
+      <small>Documentation-as-code monorepo (Markdown + Git) where I structure and retain everything I learn across any technology stack. A living record of my engineering growth.</small>
+    </td>
+    <td width="50%">
+      <strong><a href="https://github.com/Yoseph-GL/auth-registration-challenge">Auth Registration</a></strong>
+      <br>
+      <small>Django 5.2 + PostgreSQL 16. Email-only login, account lockout after 3 failed attempts, single session enforcement, 15-minute session timeout. Docker Compose.</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong><a href="https://github.com/Yoseph-GL/ops-docker-databases">Homelab Sandbox</a></strong>
+      <br>
+      <small>Sandbox on Ubuntu Server 24.04 LTS, deploying services with Docker Compose to practice and experiment on bare-metal infrastructure.</small>
+    </td>
+    <td width="50%">
+      <strong><a href="https://github.com/Yoseph-GL/ubuntu-ops-dotfiles">Bash Automation</a></strong>
+      <br>
+      <small>Modular suite of scripts for safe updates, Docker cleanup, and backups, applying strict error handling and dry-run modes by default.</small>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong><a href="https://github.com/Yoseph-GL/RacingCars">OOP Fundamentals</a></strong>
+      <br>
+      <small>RacingCars simulator in Java to practice inheritance, polymorphism, and state modeling.</small>
+    </td>
+  </tr>
+</table>
 
-- **[Knowledge Base](https://github.com/Yoseph-GL/documentation-as-code)** – Personal documentation-as-code monorepo (Markdown + Git) where I structure and retain everything I learn across any technology stack. A living record of my engineering growth.s.
-- **[Homelab & Local Environment](https://github.com/Yoseph-GL/ops-docker-databases)** – Maintaining a sandbox on Ubuntu Server 24.04 LTS, deploying services with Docker Compose to practice and experiment.
-- **[Bash Automation (dotfiles)](https://github.com/Yoseph-GL/ubuntu-ops-dotfiles)** – Modular suite of scripts for safe updates, Docker cleanup, and backups, applying strict error handling and dry-run modes by default.
-- **[OOP Fundamentals](https://github.com/Yoseph-GL/RacingCars)** – Small **RacingCars** simulator in Java to practice inheritance, polymorphism, and state modeling.
+<br>
 
----
+<div align="center">
+  <details>
+    <summary><b>Homelab Specifications</b></summary>
+    <br>
+    <p>Operating native infrastructure without heavy hypervisors to maximize resources:</p>
+    <ul align="left">
+      <li><b>Host:</b> MateBook D15 (AMD Ryzen 7 5700U, 8 Cores / 16 Threads)</li>
+      <li><b>Memory:</b> 16GB RAM | 512GB NVMe Storage</li>
+      <li><b>OS:</b> Ubuntu Server 24.04 LTS (Bare-metal)</li>
+      <li><b>Shell &amp; Environment:</b> Zsh, Kitty, LazyVim, LazyDocker, LazyGit</li>
+    </ul>
+  </details>
+</div>
 
-> *"If you ever feel you know everything, worry. It means you stopped growing."*
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoseph-GL&show_icons=true&bg_color=000000&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoseph-GL&layout=compact&bg_color=000000&title_color=A855F7&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="35%">
+</div>
+
+<br>
+
+<div align="center">
+  <i>"If you ever feel you know everything, worry. It means you stopped growing."</i>
+</div>
