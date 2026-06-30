@@ -133,21 +133,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoseph-GL&show_icons=true&bg_color=000000&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&hide_border=true&v=1" height="150" alt="GitHub Stats">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoseph-GL&layout=compact&bg_color=000000&title_color=A855F7&text_color=c9d1d9&hide_border=true&v=1" height="150" alt="Top Languages">
+  <i>"Overengineering is just insecurity disguised as architecture. Simplicity scales, complexity just accumulates."</i>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Yoseph-GL&color=A855F7&style=flat-square&label=Profile+Views" alt="Profile Views">
-</div>
-
-<br>
-
-<div align="center">
-  <i>"If you ever feel you know everything, worry. It means you stopped growing."</i>
-</div>
-
-<br>
-
-<div align="center">
+  <br>
   <img src="https://raw.githubusercontent.com/Yoseph-GL/Yoseph-GL/output/github-snake-dark.svg" alt="Snake Contribution Graph">
+  <br>
+  <small>Automated CI/CD pipeline — regenerates daily from contribution history</small>
 </div>
