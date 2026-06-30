@@ -133,12 +133,26 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoseph-GL&show_icons=true&bg_color=000000&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoseph-GL&layout=compact&bg_color=000000&title_color=A855F7&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="35%">
+  <a href="https://github.com/Yoseph-GL">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yoseph-GL&show_icons=true&bg_color=000000&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&hide_border=true&v=1" height="150" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/Yoseph-GL">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoseph-GL&layout=compact&bg_color=000000&title_color=A855F7&text_color=c9d1d9&hide_border=true&v=1" height="150" alt="Top Languages">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yoseph-GL&color=A855F7&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 
 <br>
 
 <div align="center">
   <i>"If you ever feel you know everything, worry. It means you stopped growing."</i>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yoseph-GL/Yoseph-GL/output/github-snake-dark.svg" alt="Snake Contribution Graph">
 </div>
