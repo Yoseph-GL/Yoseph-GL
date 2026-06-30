@@ -15,11 +15,11 @@
     <strong>Backend, automation, and containers.</strong>
     <img src="https://img.shields.io/badge/Professional_Internship-Sept_2026-A855F7?style=flat-square">
     <br>
-    <sub>Operating daily on bare-metal Linux to understand system internals &middot; Santa Rosa, Nuevo León, Mexico</sub>
+    <small>Operating daily on bare-metal Linux to understand system internals &middot; Santa Rosa, Nuevo León, Mexico</small>
   </p>
 </div>
 
-<div style="height:1px;background:#A855F722"></div>
+<div style="height:1px;background:rgba(168,85,247,0.13)"></div>
 
 ### <span style="color:#A855F7">Tech Stack</span>
 
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white">
 <img src="https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=windowsterminal&logoColor=white">
 
-<div style="height:1px;background:#A855F722"></div>
+<div style="height:1px;background:rgba(168,85,247,0.13)"></div>
 
 ### <span style="color:#A855F7">What I'm Building</span>
 
@@ -51,32 +51,32 @@
   <tr>
     <td width="50%">
       <strong><a href="https://github.com/Yoseph-GL/documentation-as-code">Knowledge Base</a></strong><br>
-      <sub>Documentation-as-code monorepo — structured learning across stacks, a living record of engineering growth.</sub>
+      <small>Documentation-as-code monorepo — structured learning across stacks, a living record of engineering growth.</small>
     </td>
     <td width="50%">
       <strong><a href="https://github.com/Yoseph-GL/auth-registration-challenge">Auth Registration</a></strong><br>
-      <sub>Django 5.2 + PostgreSQL 16. Account lockout, single-session enforcement, 15-min timeout. Docker Compose.</sub>
+      <small>Django 5.2 + PostgreSQL 16. Account lockout, single-session enforcement, 15-min timeout. Docker Compose.</small>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <strong><a href="https://github.com/Yoseph-GL/ops-docker-databases">Homelab Sandbox</a></strong><br>
-      <sub>Ubuntu Server 24.04 LTS bare-metal — deploying services with Docker Compose to experiment on real infrastructure.</sub>
+      <small>Ubuntu Server 24.04 LTS bare-metal — deploying services with Docker Compose to experiment on real infrastructure.</small>
     </td>
     <td width="50%">
       <strong><a href="https://github.com/Yoseph-GL/ubuntu-ops-dotfiles">Bash Automation</a></strong><br>
-      <sub>Modular scripts for safe updates, Docker cleanup, and backups — strict error handling, dry-run by default.</sub>
+      <small>Modular scripts for safe updates, Docker cleanup, and backups — strict error handling, dry-run by default.</small>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <strong><a href="https://github.com/Yoseph-GL/RacingCars">OOP Fundamentals</a></strong><br>
-      <sub>RacingCars simulator in Java — practicing inheritance, polymorphism, and state modeling.</sub>
+      <small>RacingCars simulator in Java — practicing inheritance, polymorphism, and state modeling.</small>
     </td>
   </tr>
 </table>
 
-<div style="height:1px;background:#A855F722"></div>
+<div style="height:1px;background:rgba(168,85,247,0.13)"></div>
 
 <details>
   <summary><b>Homelab Specifications</b></summary>
@@ -97,5 +97,5 @@
   <br><br>
   <img src="https://raw.githubusercontent.com/Yoseph-GL/Yoseph-GL/output/github-snake-dark.svg" alt="Snake Contribution Graph">
   <br>
-  <sub>CI/CD pipeline regenerates <strong>this snake</strong> daily from contribution history</sub>
+  <small>CI/CD pipeline regenerates <strong>this snake</strong> daily from contribution history</small>
 </div>
