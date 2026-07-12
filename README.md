@@ -102,8 +102,4 @@
 
 <div align="center">
   <span style="color:#A855F7"><i>"Simplicity scales. Overengineering fails."</i></span>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Yoseph-GL/Yoseph-GL/output/github-snake-dark.svg" alt="Snake Contribution Graph">
-  <br>
-  <small>CI/CD pipeline regenerates <strong>this snake</strong> daily from contribution history</small>
 </div>
