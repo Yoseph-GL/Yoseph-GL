@@ -19,7 +19,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Status-Seeking_Internship-A855F7?style=for-the-badge" alt="Status">
-    <img src="https://img.shields.io/badge/Availability-Sept_2026-A855F7?style=for-the-badge" alt="Availability">
+    <img src="https://img.shields.io/badge/Availability-RIGHT_NOW-A855F7?style=for-the-badge" alt="Availability">
   </p>
 
   <div style="max-width:600px; margin:20px auto; padding:15px 25px; background:#161B22; border-radius:12px; border:1px solid #30363D;">
@@ -33,26 +33,9 @@
 
 <div style="height:1px; background: linear-gradient(to right, transparent, #A855F7, #C084FC, transparent); margin: 30px 0;"></div>
 
-<!-- STATS PANEL -->
-<div align="center" style="background:#0D1117; border:1px solid #30363D; border-radius:12px; padding:20px 10px; margin:0 10px;">
-  <h3 style="color:#A855F7; font-weight:500; letter-spacing:1.5px; margin-top:0;">STATS AND LANGUAGES</h3>
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yoseph-GL&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&count_private=true&ring_color=A855F7&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoseph-GL&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css&title_color=A855F7&text_color=C9D1D9" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 <div style="height:1px; background: linear-gradient(to right, transparent, #A855F7, #C084FC, transparent); margin: 30px 0;"></div>
 
-<!-- TECH STACK PANEL -->
+<!-- TECH STACK (shields.io, works) -->
 <div align="center" style="background:#0D1117; border:1px solid #30363D; border-radius:12px; padding:20px 15px; margin:0 10px;">
   <h3 style="color:#A855F7; font-weight:500; letter-spacing:1.5px; margin-top:0;">TECH STACK</h3>
 
@@ -87,37 +70,39 @@
 
 <div style="height:1px; background: linear-gradient(to right, transparent, #A855F7, #C084FC, transparent); margin: 30px 0;"></div>
 
-<!-- PROJECTS PANEL -->
-<div align="center" style="background:#0D1117; border:1px solid #30363D; border-radius:12px; padding:20px 10px; margin:0 10px;">
+<!-- WHAT I'M BUILDING (HTML cards) -->
+<div align="center" style="background:#0D1117; border:1px solid #30363D; border-radius:12px; padding:20px 15px; margin:0 10px;">
   <h3 style="color:#A855F7; font-weight:500; letter-spacing:1.5px; margin-top:0;">WHAT I'M BUILDING</h3>
-  <p>
-    <a href="https://github.com/Yoseph-GL/documentation-as-code">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yoseph-GL&repo=documentation-as-code&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="45%" />
-    </a>
-    <a href="https://github.com/Yoseph-GL/auth-registration-challenge">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yoseph-GL&repo=auth-registration-challenge&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="45%" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/Yoseph-GL/ops-docker-databases">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yoseph-GL&repo=ops-docker-databases&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="45%" />
-    </a>
-    <a href="https://github.com/Yoseph-GL/ubuntu-ops-dotfiles">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yoseph-GL&repo=ubuntu-ops-dotfiles&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="45%" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/Yoseph-GL/RacingCars">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yoseph-GL&repo=RacingCars&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="45%" />
-    </a>
-  </p>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 15px;">
+    <div style="background:#161B22; border:1px solid #30363D; border-radius:8px; padding:15px; width:45%; text-align:left;">
+      <a href="https://github.com/Yoseph-GL/documentation-as-code" style="color:#A855F7; font-weight:600; text-decoration:none;">documentation-as-code</a>
+      <p style="color:#8B949E; font-size:13px; margin:8px 0 0;">Knowledge Base monorepo – structured learning across stacks.</p>
+    </div>
+    <div style="background:#161B22; border:1px solid #30363D; border-radius:8px; padding:15px; width:45%; text-align:left;">
+      <a href="https://github.com/Yoseph-GL/auth-registration-challenge" style="color:#A855F7; font-weight:600; text-decoration:none;">auth-registration-challenge</a>
+      <p style="color:#8B949E; font-size:13px; margin:8px 0 0;">Django + PostgreSQL: account lockout, session enforcement.</p>
+    </div>
+    <div style="background:#161B22; border:1px solid #30363D; border-radius:8px; padding:15px; width:45%; text-align:left;">
+      <a href="https://github.com/Yoseph-GL/ops-docker-databases" style="color:#A855F7; font-weight:600; text-decoration:none;">ops-docker-databases</a>
+      <p style="color:#8B949E; font-size:13px; margin:8px 0 0;">Homelab sandbox – Docker Compose on bare-metal Ubuntu.</p>
+    </div>
+    <div style="background:#161B22; border:1px solid #30363D; border-radius:8px; padding:15px; width:45%; text-align:left;">
+      <a href="https://github.com/Yoseph-GL/ubuntu-ops-dotfiles" style="color:#A855F7; font-weight:600; text-decoration:none;">ubuntu-ops-dotfiles</a>
+      <p style="color:#8B949E; font-size:13px; margin:8px 0 0;">Bash automation – modular scripts for maintenance.</p>
+    </div>
+    <div style="background:#161B22; border:1px solid #30363D; border-radius:8px; padding:15px; width:45%; text-align:left;">
+      <a href="https://github.com/Yoseph-GL/RacingCars" style="color:#A855F7; font-weight:600; text-decoration:none;">RacingCars</a>
+      <p style="color:#8B949E; font-size:13px; margin:8px 0 0;">Java OOP simulator – inheritance, polymorphism.</p>
+    </div>
+  </div>
 </div>
 
 <br>
 
 <div style="height:1px; background: linear-gradient(to right, transparent, #A855F7, #C084FC, transparent); margin: 30px 0;"></div>
 
-<!-- HOMELAB PANEL -->
+<!-- HOMELAB SPECS (HTML collapsible) -->
 <div align="center" style="background:#0D1117; border:1px solid #30363D; border-radius:12px; padding:20px 15px; margin:0 10px;">
   <h3 style="color:#A855F7; font-weight:500; letter-spacing:1.5px; margin-top:0;">HOMELAB SPECS</h3>
   <details>
