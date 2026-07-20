@@ -1,13 +1,18 @@
+<!-- HEADER WAVE -->
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C084FC&height=200&section=header&text=Joseph%20Angel%20Anthony%20Garza%20Lopez&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
+<!-- INTRO SECTION -->
 <div align="center" style="background: linear-gradient(180deg, #0D1117 0%, #0A0815 100%); padding: 20px 20px 30px; margin: -10px 0 0; border-radius: 0 0 20px 20px;">
 
+  <!-- Typing animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=IT+Engineering+Student+%7C+5th+Term;Backend+%26+Infrastructure+Enthusiast;Operating+daily+on+bare-metal+Linux;Building+my+own+homelab;Seeking+Internship+Right+Now" alt="Typing SVG" />
   </a>
 
+  <!-- Location -->
   <p style="font-size:14px; color:#9B9BCC; letter-spacing:0.5px; margin: 8px 0 16px;">Ciudad Apodaca Centro, Nuevo León, México</p>
 
+  <!-- Contact buttons -->
   <p style="margin: 12px 0;">
     <a href="mailto:joseph88garza@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -18,15 +23,18 @@
     </a>
   </p>
 
+  <!-- Status badges -->
   <p style="margin: 10px 0;">
     <img src="https://img.shields.io/badge/Status-Seeking_Internship-A855F7?style=for-the-badge" alt="Status">
     <img src="https://img.shields.io/badge/Availability-RIGHT_NOW-A855F7?style=for-the-badge" alt="Availability">
   </p>
 
+  <!-- Self-directed learner badge -->
   <p style="margin: 6px 0 0;">
     <img src="https://img.shields.io/badge/Self--Directed_Learner-A855F7?style=for-the-badge&logo=bookstack&logoColor=white" alt="Self-Directed Learner" />
   </p>
 
+  <!-- Summary blurb -->
   <div style="max-width:600px; margin:25px auto 0; padding:18px 24px; background: linear-gradient(135deg, #161B22, #1A1028); border-radius:12px; border:1px solid #30363D;">
     <p style="color:#E0E0F0; font-size:14px; line-height:1.6; margin:0;">
       I build solid foundations in <strong style="color:#B388FF;">backend, automation, and containers</strong> through personal labs and continuous learning — I use Linux daily to understand how software works under the hood, not just the theory.
@@ -36,12 +44,14 @@
 
 <br>
 
+<!-- DIVIDER -->
 <div style="height:1px; background: linear-gradient(to right, transparent, #8E6BC2, #B388FF, transparent); margin: 35px 0;"></div>
 
 <!-- TECH STACK -->
 <div align="center" style="background: linear-gradient(145deg, #0D1117 0%, #120B1F 100%); border:1px solid #2E2440; border-radius:14px; padding:25px 20px; margin:0 10px;">
   <h3 style="color:#B388FF; font-weight:500; letter-spacing:1.8px; margin:0 0 20px; font-size:15px;">▸ TECH STACK</h3>
 
+  <!-- Languages and Databases -->
   <p style="color:#9B9BCC; font-weight:600; margin:0 0 10px; letter-spacing:0.5px;">Languages and Databases</p>
   <p style="margin: 0 0 18px;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -50,6 +60,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
 
+  <!-- Systems and Containers -->
   <p style="color:#9B9BCC; font-weight:600; margin:0 0 10px; letter-spacing:0.5px;">Systems and Containers</p>
   <p style="margin: 0 0 18px;">
     <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -59,8 +70,9 @@
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   </p>
 
+  <!-- Tools and Terminal -->
   <p style="color:#9B9BCC; font-weight:600; margin:0 0 10px; letter-spacing:0.5px;">Tools and Terminal</p>
-  <p>
+  <p style="margin:0;">
     <img src="https://img.shields.io/badge/JetBrains_Suite-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -71,13 +83,14 @@
 
 <br>
 
+<!-- DIVIDER -->
 <div style="height:1px; background: linear-gradient(to right, transparent, #8E6BC2, #B388FF, transparent); margin: 35px 0;"></div>
 
 <!-- CERTIFICATIONS -->
 <div align="center" style="background: linear-gradient(145deg, #0D1117 0%, #120B1F 100%); border:1px solid #2E2440; border-radius:14px; padding:25px 20px; margin:0 10px;">
   <h3 style="color:#B388FF; font-weight:500; letter-spacing:1.8px; margin:0 0 20px; font-size:15px;">▸ CERTIFICATIONS</h3>
 
-  <!-- TOEFL -->
+  <!-- TOEFL Preparation -->
   <div style="background: linear-gradient(135deg, #1A1E2B, #1A1028); border:1px solid #30363D; border-radius:10px; padding:16px 18px; margin: 0 0 15px; text-align:left;">
     <p style="margin:0 0 6px;">
       <img src="https://img.shields.io/badge/TOEFL-Preparation%20%26%20English%20Course-B388FF?style=for-the-badge&logo=academia&logoColor=white" alt="TOEFL Prep"/>
@@ -87,7 +100,7 @@
     </p>
   </div>
 
-  <!-- Cambridge -->
+  <!-- Cambridge English -->
   <div style="background: linear-gradient(135deg, #1A1E2B, #1A1028); border:1px solid #30363D; border-radius:10px; padding:16px 18px; margin: 0 0 15px; text-align:left;">
     <p style="margin:0 0 6px;">
       <img src="https://img.shields.io/badge/Cambridge_English-B1+%20(CEPT)-B388FF?style=for-the-badge&logo=cambridge&logoColor=white" alt="Cambridge B1+"/>
@@ -97,10 +110,10 @@
     </p>
   </div>
 
-  <!-- SMT (sin fecha ni Fuji) -->
-  <div style="background: linear-gradient(135deg, #1A1E2B, #1A1028); border:1px solid #30363D; border-radius:10px; padding:16px 18px; margin: 0; text-align:left;">
+  <!-- SMT Manufacturing (Fuji course, no Fuji logo) -->
+  <div style="background: linear-gradient(135deg, #1A1E2B, #1A1028); border:1px solid #30363D; border-radius:10px; padding:16px 18px; margin:0; text-align:left;">
     <p style="margin:0 0 6px;">
-      <img src="https://img.shields.io/badge/SMT_Manufacturing-100%20Hours%20Hands--On-B388FF?style=for-the-badge&logo=fujitsu&logoColor=white" alt="SMT Manufacturing 100h"/>
+      <img src="https://img.shields.io/badge/SMT_Manufacturing-100%20Hours%20Hands--On-B388FF?style=for-the-badge&logo=probot&logoColor=white" alt="SMT Manufacturing 100h"/>
     </p>
     <p style="color:#C9D1D9; font-size:13px; margin:0 0 6px;">
       <b>Advanced Industrial SMT Production & Process Engineering</b>
@@ -119,12 +132,14 @@
 
 <br>
 
+<!-- DIVIDER -->
 <div style="height:1px; background: linear-gradient(to right, transparent, #8E6BC2, #B388FF, transparent); margin: 35px 0;"></div>
 
 <!-- WHAT I'M BUILDING -->
 <div align="center" style="background: linear-gradient(145deg, #0D1117 0%, #120B1F 100%); border:1px solid #2E2440; border-radius:14px; padding:25px 20px; margin:0 10px;">
   <h3 style="color:#B388FF; font-weight:500; letter-spacing:1.8px; margin:0 0 20px; font-size:15px;">▸ WHAT I'M BUILDING</h3>
 
+  <!-- Project grid -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <div style="background: linear-gradient(135deg, #1A1E2B, #1A1028); border:1px solid #30363D; border-radius:10px; padding:16px 14px; width:45%; text-align:left;">
       <a href="https://github.com/Yoseph-GL/documentation-as-code" style="color:#B388FF; font-weight:600; text-decoration:none;">documentation-as-code</a>
@@ -151,6 +166,7 @@
 
 <br>
 
+<!-- DIVIDER -->
 <div style="height:1px; background: linear-gradient(to right, transparent, #8E6BC2, #B388FF, transparent); margin: 35px 0;"></div>
 
 <!-- HOMELAB SPECS -->
@@ -170,10 +186,12 @@
 
 <br>
 
+<!-- CLOSING QUOTE -->
 <div align="center">
   <span style="color:#B388FF; font-style:italic; font-size:14px; letter-spacing:0.5px;">
     "Simplicity scales. Overengineering fails."
   </span>
 </div>
 
+<!-- FOOTER WAVE -->
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C084FC&height=100&section=footer" />
