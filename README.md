@@ -22,6 +22,10 @@
     <img src="https://img.shields.io/badge/Availability-RIGHT_NOW-A855F7?style=for-the-badge" alt="Availability">
   </p>
 
+  <p>
+    <img src="https://img.shields.io/badge/Self--Directed_Learner-A855F7?style=for-the-badge&logo=bookstack&logoColor=white" alt="Self-Directed Learner" />
+  </p>
+
   <div style="max-width:600px; margin:20px auto; padding:15px 25px; background:#161B22; border-radius:12px; border:1px solid #30363D;">
     <p style="color:#C9D1D9; font-size:14px; line-height:1.6;">
       I build solid foundations in <strong style="color:#A855F7;">backend, automation, and containers</strong> through personal labs and continuous learning — I use Linux daily to understand how software works under the hood, not just the theory.
@@ -33,9 +37,7 @@
 
 <div style="height:1px; background: linear-gradient(to right, transparent, #A855F7, #C084FC, transparent); margin: 30px 0;"></div>
 
-<div style="height:1px; background: linear-gradient(to right, transparent, #A855F7, #C084FC, transparent); margin: 30px 0;"></div>
-
-<!-- TECH STACK (shields.io, works) -->
+<!-- TECH STACK -->
 <div align="center" style="background:#0D1117; border:1px solid #30363D; border-radius:12px; padding:20px 15px; margin:0 10px;">
   <h3 style="color:#A855F7; font-weight:500; letter-spacing:1.5px; margin-top:0;">TECH STACK</h3>
 
@@ -70,7 +72,55 @@
 
 <div style="height:1px; background: linear-gradient(to right, transparent, #A855F7, #C084FC, transparent); margin: 30px 0;"></div>
 
-<!-- WHAT I'M BUILDING (HTML cards) -->
+<!-- CERTIFICATIONS -->
+<div align="center" style="background:#0D1117; border:1px solid #30363D; border-radius:12px; padding:20px 15px; margin:0 10px;">
+  <h3 style="color:#A855F7; font-weight:500; letter-spacing:1.5px; margin-top:0;">CERTIFICATIONS</h3>
+
+  <!-- TOEFL + English Course -->
+  <div style="background:#161B22; border:1px solid #30363D; border-radius:8px; padding:12px 15px; margin: 10px 0; text-align:left;">
+    <p style="margin:0 0 8px;">
+      <img src="https://img.shields.io/badge/TOEFL-Preparation%20%26%20English%20Course-A855F7?style=for-the-badge&logo=academia&logoColor=white" alt="TOEFL Prep"/>
+    </p>
+    <p style="color:#C9D1D9; font-size:14px; margin:0;">
+      Completed an intensive academic English program and technical TOEFL preparation. Strong focus on Reading, Listening, Speaking, and Writing for academic and professional contexts.
+    </p>
+  </div>
+
+  <!-- Cambridge B1+ -->
+  <div style="background:#161B22; border:1px solid #30363D; border-radius:8px; padding:12px 15px; margin: 10px 0; text-align:left;">
+    <p style="margin:0 0 8px;">
+      <img src="https://img.shields.io/badge/Cambridge_English-B1+%20(CEPT)-A855F7?style=for-the-badge&logo=cambridge&logoColor=white" alt="Cambridge B1+"/>
+    </p>
+    <p style="color:#C9D1D9; font-size:14px; margin:0;">
+      Official CEPT certification validating B1+ (Intermediate / Upper Intermediate) level per CEFR. Demonstrates ability for technical communication and collaboration in English-speaking professional environments.
+    </p>
+  </div>
+
+  <!-- SMT Certification -->
+  <div style="background:#161B22; border:1px solid #30363D; border-radius:8px; padding:12px 15px; margin: 10px 0; text-align:left;">
+    <p style="margin:0 0 8px;">
+      <img src="https://img.shields.io/badge/SMT_Technical_Certification-100%20Hours-A855F7?style=for-the-badge&logo=fujitsu&logoColor=white" alt="SMT 100h"/>
+    </p>
+    <p style="color:#C9D1D9; font-size:14px; margin:0 0 5px;">
+      <b>Fuji | May 2026 – Aug 2026 (Projected)</b>
+    </p>
+    <details>
+      <summary style="color:#A855F7; cursor:pointer; font-weight:600;">Show details</summary>
+      <ul style="color:#C9D1D9; font-size:13px; padding-left:20px; margin:5px 0 0;">
+        <li><b>High-criticality industrial environment:</b> 100% hands-on on a real SMT production line (>$1.5M USD) at UTE.</li>
+        <li><b>SMT line orchestration:</b> Physical PCB assembly pipeline — solder paste printer, Pick & Place machines, reflow oven profiling.</li>
+        <li><b>NXT-III architecture & precision calibration:</b> XY robotic modules (M3 III, M6 III), high-speed heads (H24S, V12, DynaHead). Quality control with ±0.025 mm to ±0.050 mm tolerances, Cpk ≥ 1.33.</li>
+        <li><b>Toil reduction practices:</b> Auto Feeder Maintenance system – cleaning, lubrication, calibration; manual intervention cut from 11 min to 2 min per feeder. Vacuum metrics at -90 KPa.</li>
+      </ul>
+    </details>
+  </div>
+</div>
+
+<br>
+
+<div style="height:1px; background: linear-gradient(to right, transparent, #A855F7, #C084FC, transparent); margin: 30px 0;"></div>
+
+<!-- WHAT I'M BUILDING -->
 <div align="center" style="background:#0D1117; border:1px solid #30363D; border-radius:12px; padding:20px 15px; margin:0 10px;">
   <h3 style="color:#A855F7; font-weight:500; letter-spacing:1.5px; margin-top:0;">WHAT I'M BUILDING</h3>
 
@@ -102,7 +152,7 @@
 
 <div style="height:1px; background: linear-gradient(to right, transparent, #A855F7, #C084FC, transparent); margin: 30px 0;"></div>
 
-<!-- HOMELAB SPECS (HTML collapsible) -->
+<!-- HOMELAB SPECS -->
 <div align="center" style="background:#0D1117; border:1px solid #30363D; border-radius:12px; padding:20px 15px; margin:0 10px;">
   <h3 style="color:#A855F7; font-weight:500; letter-spacing:1.5px; margin-top:0;">HOMELAB SPECS</h3>
   <details>
