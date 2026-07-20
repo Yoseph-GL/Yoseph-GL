@@ -1,3 +1,5 @@
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C084FC&height=150&section=header" />
+
 <div align="center">
   <h1 style="color:#A855F7">Joseph Angel Anthony Garza Lopez</h1>
 
@@ -29,6 +31,16 @@
 
 <div style="height:1px;background:rgba(168,85,247,0.13)"></div>
 
+### <span style="color:#A855F7">Currently</span>
+
+<ul>
+  <li><b>Internship search:</b> preparing applications for a Professional Internship starting September 2026.</li>
+  <li><b>Documentation:</b> logging what I learn in my <a href="https://github.com/Yoseph-GL/documentation-as-code" style="color:#A855F7">Knowledge Base</a> monorepo as I go.</li>
+  <li><b>Homelab:</b> running new experiments on my bare-metal Ubuntu Server sandbox.</li>
+</ul>
+
+<div style="height:1px;background:rgba(168,85,247,0.13)"></div>
+
 ### <span style="color:#A855F7">Tech Stack</span>
 
 <strong style="color:#A855F7">Languages &amp; Databases</strong><br>
@@ -50,6 +62,21 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white">
 <img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=windowsterminal&logoColor=white">
+
+<div style="height:1px;background:rgba(168,85,247,0.13)"></div>
+
+### <span style="color:#A855F7">GitHub Activity</span>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Yoseph-GL&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoseph-GL&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <div style="height:1px;background:rgba(168,85,247,0.13)"></div>
 
@@ -103,3 +130,5 @@
 <div align="center">
   <span style="color:#A855F7"><i>"Simplicity scales. Overengineering fails."</i></span>
 </div>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C084FC&height=100&section=footer" />
