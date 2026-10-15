@@ -13,19 +13,6 @@ I take web services from the plan to the cloud, on Ubuntu servers I maintain mys
 
 </div>
 
-<h3 align="center">Currently at Redcon Automation</h3>
-
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:9333EA,100:C084FC&height=3" />
-
-<p align="center">I own my projects end to end, from requirements to production.</p>
-
-<table align="center">
-  <tr><td><b>Requirements &amp; planning</b></td><td>Scope each system with the people who use it, then plan the work.</td></tr>
-  <tr><td><b>Architecture &amp; code</b></td><td>Database design, backend, frontend, and refactoring legacy systems.</td></tr>
-  <tr><td><b>Deployment &amp; cloud</b></td><td>Automated deployments, server and cloud environments, production workload migrations.</td></tr>
-  <tr><td><b>Internal IT</b></td><td>The company's day-to-day IT needs.</td></tr>
-</table>
-
 <h3 align="center">Tech Stack</h3>
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:9333EA,100:C084FC&height=3" />
@@ -73,6 +60,19 @@ I take web services from the plan to the cloud, on Ubuntu servers I maintain mys
   <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer" />
 </p>
+
+<h3 align="center">Currently at Redcon Automation</h3>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:9333EA,100:C084FC&height=3" />
+
+<p align="center">I own my projects end to end, from requirements to production.</p>
+
+<table align="center">
+  <tr><td><b>Requirements &amp; planning</b></td><td>Scope each system with the people who use it, then plan the work.</td></tr>
+  <tr><td><b>Architecture &amp; code</b></td><td>Database design, backend, frontend, and refactoring legacy systems.</td></tr>
+  <tr><td><b>Deployment &amp; cloud</b></td><td>Automated deployments, server and cloud environments, production workload migrations.</td></tr>
+  <tr><td><b>Internal IT</b></td><td>The company's day-to-day IT needs.</td></tr>
+</table>
 
 <h3 align="center">What I'm Building</h3>
 
