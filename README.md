@@ -43,7 +43,6 @@
 <h3 align="center" style="color:#B388FF;">Languages and Databases</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -78,11 +77,8 @@
 
 <h3 align="center" style="color:#B388FF;">Tools &amp; Terminal</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JetBrains_Suite-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
 </div>
 
